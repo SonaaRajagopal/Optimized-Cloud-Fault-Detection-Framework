@@ -3,6 +3,10 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Status](https://img.shields.io/badge/Project-Active-brightgreen)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Sklearn%20%7C%20XGBoost-orange)
+
+
+
+
 Detecting anomalies and faults in cloud infrastructure using a data-driven machine learning approach to enhance system reliability, reduce downtime, and automate incident response.
 
 
