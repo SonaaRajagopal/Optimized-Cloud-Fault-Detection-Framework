@@ -67,17 +67,16 @@ Cloud systems generate vast telemetry data that can be used to detect failures b
 5. **Visualization**: Dashboards for fault analysis and prediction confidence.
 
 
-
 ## 📊 Results
 
-| Model            | Accuracy | F1-Score | AUC-ROC |
-||-|-||
+| Model           | Accuracy | F1-Score | AUC-ROC |
+|----------------|----------|----------|---------|
 | Isolation Forest | 87%      | 85%      | 0.91    |
 | Autoencoder      | 89%      | 88%      | 0.93    |
 | LSTM             | 92%      | 91%      | 0.95    |
 
 ✅ Real-time detection latency < 3 seconds  
-✅ Detected 95% of hardware faults before failure
+✅ Detected **95%** of hardware faults before failure
 
 
 ## 🧠 Future Work
