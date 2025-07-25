@@ -80,10 +80,22 @@ Cloud systems generate vast telemetry data that can be used to detect failures b
 ✅ Detected 95% of hardware faults before failure
 
 
+## 🧠 Future Work
 
-## ⚙️ Installation
+- 🔧 Integrate into SDN-based network controllers  
+- 🛰️ Real-time monitoring using edge devices  
+- 🧠 Train on real-world telco data  
+- 📦 Package as an AI-powered diagnostic tool  
 
-Clone this repository:
-```bash
-git clone https://github.com/yourusername/fault-detection-cloud.git
-cd fault-detection-cloud
+
+
+## 🤝 Contributions
+
+Pull requests, feedback, and ideas are welcome!  
+Don't forget to ⭐️ the repository if you find it useful.
+
+
+
+## 📜 License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
